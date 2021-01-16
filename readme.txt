@@ -22,6 +22,9 @@ Max level 100
 FWE/JSawyer like movement changes
 Rename med-x back to morphine
 Disabling auto aim
+Better map zoom
+Drowning drains ap
+Faster lock picking
 
 what mods are used
 https://www.nexusmods.com/newvegas/mods/66347 (used for 90% of these tweaks)
