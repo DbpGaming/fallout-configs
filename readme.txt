@@ -4,6 +4,7 @@ this is just a git repo for configs for mods i use on fallout new vegas, stewiet
 some gamesettings were taken from https://www.nexusmods.com/newvegas/mods/69462
 
 The config changes enable these features and probably more, but remember this is just configuration, it's not meant to be used as a mod, it's just here as a base for other people and easy deployment for me
+Very hard is like skyrim's legendary
 FO3 repair
 NPC weapon mods
 24hour sleep wait
