@@ -25,6 +25,8 @@ Disabling auto aim
 Better map zoom
 Drowning drains ap
 Faster lock picking
+Faster hacking
+Faster sleep wait
 
 what mods are used
 https://www.nexusmods.com/newvegas/mods/66347 (used for 90% of these tweaks)
